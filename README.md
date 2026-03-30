@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-Express-black?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
 
@@ -32,6 +32,6 @@
 ---
 
 ## 🤝 Connect With Me
-![LinkedIn:](https://www.linkedin.com/in/wahab-ahmed-79293665)
+![LinkedIn](https://www.linkedin.com/in/wahab-ahmed-79293665)
 - Twitter: [Your Link]
 - Email: your@email.com
