@@ -17,20 +17,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-Express-black?style=flat-square&logo=mongodb)
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=imokha01&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imokha01E&layout=compact)
 
 ---
 
 ## 🤝 Connect With Me
-- LinkedIn: [Your Link]
+![LinkedIn:](https://www.linkedin.com/in/wahab-ahmed-79293665)
 - Twitter: [Your Link]
 - Email: your@email.com
