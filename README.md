@@ -3,7 +3,6 @@
 💻 Backend Developer | Node.js Enthusiast  
 🚀 Building APIs & Scalable Systems  
 
----
 
 ## 🧠 About Me
 - 🔭 Currently learning: Node.js & System Design  
@@ -11,25 +10,27 @@
 - 💬 Ask me about: APIs, JavaScript, Backend  
 - ⚡ Fun fact: I love solving real-world problems  
 
----
+
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![HTML](https://img.shields.io/badge/-Html-black?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
 
----
+
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=imokha01&show_icons=true&theme=radical)
 
----
+
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imokha01E&layout=compact)
 
----
+
 
 ## Social Badges
 
