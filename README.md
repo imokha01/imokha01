@@ -31,7 +31,10 @@
 
 ---
 
+## Social Badges
+
+
 ## 🤝 Connect With Me
-![LinkedIn](https://www.linkedin.com/in/wahab-ahmed-79293665)
+![https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge](https://www.linkedin.com/in/wahab-ahmed-79293665)
 - Twitter: [Your Link]
 - Email: your@email.com
