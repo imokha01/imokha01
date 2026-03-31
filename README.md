@@ -1,4 +1,4 @@
-0 # Hi 👋, I'm Ahmed Wahab Imokha
+# Hi 👋, I'm Ahmed Wahab Imokha
 
 💻 Backend Developer | Node.js | System Design Enthusiast  
 
